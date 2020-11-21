@@ -1,6 +1,6 @@
 body{
     font-family: 'Work san','Sans-Serif';
-    background-color: rgb(163, 163, 219);
+    background-color: rgb(186, 186, 250);
 }
 ul {
   list-style-type: none;
@@ -28,10 +28,10 @@ li a:hover {
   color: white;
 }
 h2{
-  color: rgb(10, 41, 24);
+  color: rgb(10, 48, 27);
 }
 p {
-  color: rgb(0, 13, 36);
+  color: rgb(6, 15, 32);
 }
 h3{
   color: rgb(10, 41, 24);
@@ -40,7 +40,7 @@ p {
   color: rgb(0, 13, 36);
 }
 h4{
-  color: rgb(10, 41, 24);
+  color: rgb(11, 46, 27);
 } 
 
   
@@ -55,17 +55,17 @@ h4{
 
 } */
 h5{
-  color: rgb(10, 41, 24);
+  color: rgb(11, 48, 28);
 }  
-p{ color: rgb(10, 2, 15);
+p{ color: rgb(7, 1, 10);
 }
 
 
 h6 {
-  color:  rgb(11, 44, 25);
+  color:  rgb(14, 56, 31);
 }
 p {
-  color: rgb(10, 2, 15);
+  color: rgb(10, 3, 14);
 }
 
   
