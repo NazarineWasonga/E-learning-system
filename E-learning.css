@@ -1,13 +1,13 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-    background-color: rgb(186, 186, 250);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #e1c9f5;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 10px 20px;
   width: 200px;
-  background-color: #c1afd1;
+  background-color: rgb(152, 163, 136);
   position: 60%;
   display: inline-block;
   text-transform:uppercase;
